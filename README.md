@@ -1,2 +1,7 @@
-# SfM-RS_LAB2
-Software for mechatronic and robotic systems
+# SfM-RS_LAB2 
+(Software for mechatronic and robotic systems. LAB №2)
+
+(Программное обеспечение мехатронных и робототехнических систем, л.р. №2)
+
+Все описание работы содержится в ворд-док файле ПОМЕР_лаба2.docx.
+Скачайте репозиторий, разархивируйте в его директории зип-файлы Physical.zip, Logical.zip.
