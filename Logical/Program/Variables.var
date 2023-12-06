@@ -1,0 +1,6 @@
+VAR
+	speed : INT;
+	drive_sm : DriveStateMachine;
+	door_sm : DoorStateMachine;
+	led_sm : LedStateMachine;
+END_VAR
